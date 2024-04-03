@@ -2,8 +2,8 @@
 					xmlns:system="clr-namespace:System;assembly=System.Runtime"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
 	<!-- Play Page / View -->
-	<system:String x:Key="AddressBoxTitle">服务器地址</system:String>
-	<system:String x:Key="UsernameBoxTitle">用户名</system:String>
+	<system:String x:Key="AddressBoxTitle">服务器地址 DR编译</system:String>
+	<system:String x:Key="UsernameBoxTitle">用户名 论坛DRNOTDQ.net</system:String>
 	<system:String x:Key="PasswordBoxTitle">密码</system:String>
 	<system:String x:Key="EnterUserNamePlaceholder">请输入用户名...</system:String>
 	<system:String x:Key="EnterPasswordPlaceholder">请输入密码...</system:String>
